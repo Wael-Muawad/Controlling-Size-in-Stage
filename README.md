@@ -1,2 +1,2 @@
 # Controlling-Size-in-Stage
-a JavaFX project that controll the size of controlls 
+a JavaFX project that control the size of the controllers based on Radio Buttons
