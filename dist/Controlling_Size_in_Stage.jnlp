@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Controlling_Size_in_Stage.jnlp">
+  <information>
+    <title>Controlling_Size_in_Stage</title>
+    <vendor>wael_</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Controlling_Size_in_Stage.jar" size="3633" download="eager" />
+  </resources>
+  <applet-desc  width="800" height="600" main-class="com.javafx.main.NoJavaFXFallback"  name="Controlling_Size_in_Stage" >
+    <param name="requiredFXVersion" value="8.0+"/>
+  </applet-desc>
+  <jfx:javafx-desc  width="800" height="600" main-class="Controlling_Size_in_Stage.Controlling_Size_in_Stage"  name="Controlling_Size_in_Stage" />
+  <update check="always"/>
+</jnlp>
